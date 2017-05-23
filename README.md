@@ -1,10 +1,10 @@
 # 基于django_建立的博客
 
-*在这里我用的是pycharm这个软件进行开发的*
+本文是根据[Django 博客教程](http://zmrenwu.com/category/django-blog-tutorial/)书写的
+
+*在这里我用的是pycharm这个软件进行开发*
 
 ##搭建平台
-
-
 
 ### 1.创建工程
 
